@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 import pyttsx3
-import os
+
 
 st.set_page_config(page_title="AI Translator & TTS", layout="centered")
 

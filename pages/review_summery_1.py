@@ -1,6 +1,5 @@
 import streamlit as st
 from groq import Groq
-import os
 
 st.set_page_config(page_title="Sentiment Classifier", layout="centered")
 
