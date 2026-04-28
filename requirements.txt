@@ -1,0 +1,5 @@
+streamlit
+groq
+pyttsx3
+opencv-python
+numpy
